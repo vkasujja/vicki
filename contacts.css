@@ -1,0 +1,75 @@
+*{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.header{
+    background-color: pink;
+    padding: 25px;
+    margin: -20px;
+    
+}
+
+
+
+.menu{
+    color: white;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: pink;
+    text-align: center;
+    margin: -20px;
+    padding: -20px;
+    background-color: pink;
+}
+.menu ul{
+    text-decoration: none;
+    display: inline-flex;
+    list-style: none;
+    background-color: pink;
+
+}
+
+.menu ul li a:hover{
+    background-color: red;
+    color: yellow;
+    border-inline-start-style: solid;
+    font-size: x-large;
+    transition: 0.25s;
+}
+
+
+.menu ul li{
+    width: 200px;
+    margin: -10px;
+    padding: 5px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.h1{
+    color: red;
+    text-align: center;
+}
+
+
+.p{
+    color: red;
+}
+
+.contacts{
+    text-decoration: none;
+    margin: 50px;
+    list-style: circle;
+    font-size: x-large;
+    display: block;
+}
+
+.contacts ul li a{
+    text-decoration: none;
+}

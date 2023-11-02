@@ -1,0 +1,71 @@
+*{
+    color: greenyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.header{
+    background-color: greenyellow;
+    padding: 25px;
+    margin: -20px;
+    
+}
+
+
+
+.menu{
+    color: white;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: yellowgreen;
+    text-align: center;
+    margin: -20px;
+    padding: -20px;
+    background-color: greenyellow;
+}
+.menu ul{
+    text-decoration: none;
+    display: inline-flex;
+    list-style: none;
+    background-color: greenyellow;
+
+}
+
+.menu ul li a:hover{
+    background-color: red;
+    color: yellow;
+    border-inline-start-style: solid;
+    font-size: x-large;
+    transition: 0.25s;
+}
+
+
+.menu ul li{
+    width: 200px;
+    margin: -10px;
+    padding: 5px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.h1{
+    color: red;
+    text-align: center;
+}
+
+.h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.p{
+    color: red;
+    margin-left: 60px;
+}
